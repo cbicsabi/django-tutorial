@@ -91,3 +91,4 @@ ENV/
 # Rope project settings
 .ropeproject
 >>>>>>> 5eb87753fa03e8824c5448ec94c00fdeee5dcb95
+Would skip repository django-tutorial/
