@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .idea
 =======
+=======
+>>>>>>> 5714178285e4de754c4d655892a32c3cda694e9b
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -90,5 +93,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+<<<<<<< HEAD
 >>>>>>> 5eb87753fa03e8824c5448ec94c00fdeee5dcb95
 Would skip repository django-tutorial/
+=======
+>>>>>>> 5714178285e4de754c4d655892a32c3cda694e9b
